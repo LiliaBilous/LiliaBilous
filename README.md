@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
  
  📫 If you have any questions or want to get in touch with me, you can reach me at:
  
-- [**Email**](liliyabilous.email@gmail.com)
-- [**LinkedIn**](https://www.linkedin.com/in/liliiabilous/)
-- [**GitHub**](https://github.com/LiliaBilous)
+  [**Email**](liliyabilous.email@gmail.com),  [**LinkedIn**](https://www.linkedin.com/in/liliiabilous/), [**Portfolio**](https://liliabilous.github.io/PortfolioProject/)
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=LiliaBilous&theme=tokyonight&hide_border=true)
