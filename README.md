@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LiliiaBilous
+- 👋 Hi, I’m @LiliaBilous
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me liliyabilous.email@gmail.com
