@@ -14,5 +14,3 @@ You can click the Preview link to take a look at your changes.
  
   [**Email**](liliyabilous.email@gmail.com),  [**LinkedIn**](https://www.linkedin.com/in/liliiabilous/), [**Portfolio**](https://liliabilous.github.io/PortfolioProject/)
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=liliabilous&theme=merko&hide_border=true)
-
